@@ -1410,3 +1410,24 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/*Thank you Page */
+ 
+.thankBtn {
+  background: #ffb727;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 5px;
+}
+
+.thankSub p{
+  text-align: center;
+}
+
+.thankHeading2 {
+  font-size: 100px;
+  margin: 2rem;
+  font-weight: 600;
+}
